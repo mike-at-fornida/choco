@@ -1,2 +1,2 @@
-# choco
+# ChocolateyPackages
 chocolatey testing
